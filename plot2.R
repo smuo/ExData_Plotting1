@@ -1,3 +1,4 @@
+## https://class.coursera.org/exdata-031/
 ## plot2.R
 ##
 ## Exploratory Data Analysis, Project 1 : Recreate plot2
